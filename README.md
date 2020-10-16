@@ -8,7 +8,7 @@ Usar la URL http://localhost/BloGus/public/link para crear un enlace simbolico (
 
 # Visualizar usando la URL del .env
 http://localhost/BloGus/public/
-
+----------------------------------------
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
