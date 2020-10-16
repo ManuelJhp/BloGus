@@ -1,5 +1,13 @@
 # BloGus
 
+# Instalacion
+Usar la Base de Datos "blogus" includia en la carpeta "Database"
+- composer install
+- npm install
+
+# Visualizar usando la URL del .env
+http://localhost/BloGus/public/
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
